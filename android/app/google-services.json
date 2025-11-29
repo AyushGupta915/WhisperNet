@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57841829083",
+    "project_id": "whispernet-8396b",
+    "storage_bucket": "whispernet-8396b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57841829083:android:6b4498d5b2eee0f11578fe",
+        "android_client_info": {
+          "package_name": "com.example.whispernet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9j12I47DYUkSv8Z0yuHSvuBpmj4_BViQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
